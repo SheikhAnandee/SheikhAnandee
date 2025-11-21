@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anandee
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Javascript
+- 👀 I’m passionate about Data Analysis, Business Intelligence, and Data Visualization
+- 🌱 I enjoy working with Python (Pandas, NumPy), SQL, Power BI, and Excel
 -
 - 📫 Email: anandeehasan24@gmail.com
 
