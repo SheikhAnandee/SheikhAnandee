@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anandee
-- 👀 I’m passionate about Data Analysis, Business Intelligence, and Data Visualization
-- 🌱 I enjoy working with Python (Pandas, NumPy), SQL, Power BI, and Excel
+- 👀 I’m passionate about Data Analysis, AI Engineering, and Data Visualization
+- 🌱 I enjoy working with Python (Pandas, NumPy), SQL, Tableau
 -
 - 📫 Email: anandeehasan24@gmail.com
 
